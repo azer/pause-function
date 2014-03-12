@@ -1,0 +1,22 @@
+{
+  "name": "pause-function",
+  "version": "0.0.0",
+  "description": "Pause and resume function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "prova"
+  },
+  "devDependencies": {
+    "prova": "*"
+  },
+  "keywords": [
+    "function",
+    "pause"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/pause-function.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
