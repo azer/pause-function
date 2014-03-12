@@ -10,6 +10,8 @@ function pause (fn, ret) {
   return wrapper;
 
   function drain () {
+    if (!calls) return;
+
     var copy = calls;
     calls = undefined;
 
