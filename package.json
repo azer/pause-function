@@ -1,6 +1,6 @@
 {
   "name": "pause-function",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pause and resume function calls",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "pause"
   ],
   "repository": {
-    "url": "git@github.com:azer\/pause-function.git",
+    "url": "git@github.com:azer/pause-function.git",
     "type": "git"
   },
   "author": "azer",
