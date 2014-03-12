@@ -28,3 +28,5 @@ function print (msg) {
   console.log(' => ', msg)
 }
 ```
+
+See `test.js` for more info
